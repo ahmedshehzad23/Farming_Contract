@@ -1,0 +1,14 @@
+{
+  "name": "dlp-contract",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.13.0"
+  }
+}
